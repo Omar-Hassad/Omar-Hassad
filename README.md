@@ -1,4 +1,4 @@
-##  Embedded Systems Engineer | Embedded Linux
+## Embedded Systems Engineer | Embedded Linux
 
 ### 🧠 About Me
 
