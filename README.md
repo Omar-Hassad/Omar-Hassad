@@ -2,7 +2,8 @@
 
 ### 🧠 About Me
 
-Focused on Embedded Linux (Yocto), bootloaders, OTA updates, and device drivers. Also interested in building RTOS systems for powerful hardware using Zephyr and FreeRTOS, and testing hardware with powerful CPUs.
+Focus on Embedded linux, Yocto, bootloaders, OTA updates, and device drivers.Also interested in building TTOS systems for powerful hardware using ZEphyr and FreeRTOS, and testing hardware with powerful CPUs.
+
 --
 
 ### 💻 Languages and Tools
