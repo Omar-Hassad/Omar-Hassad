@@ -31,3 +31,6 @@ Also interested in building RTOS systems for powerful hardware using ZEphyr and 
 ![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280.svg?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-00897B.svg?style=for-the-badge)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr-00B3E6.svg?style=for-the-badge&logo=zephyrproject&logoColor=white)
+![West](https://img.shields.io/badge/West_Tool-333333.svg?style=for-the-badge)
+![Device Tree (DTS)](https://img.shields.io/badge/Device_Tree-DTS-4CAF50.svg?style=for-the-badge)
