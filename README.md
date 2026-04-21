@@ -1,5 +1,13 @@
 ## 🚀 Embedded Systems Engineer
 
+### 🧠 About Me
+- 🎓 Electrical Engineering student (Embedded Systems & AII)
+- ⚙️ Passionate about low-level programming & Linux
+- 🔧 Working with STM32, ESP32, and Embedded Linux
+- 🚀 Building real-world embedded & IoT projects
+
+--
+
 ### 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -8,14 +16,6 @@
 ![BitBake](https://img.shields.io/badge/BitBake-%23000000.svg?style=for-the-badge&logo=yocto&logoColor=white)
 ![West](https://img.shields.io/badge/West-%23000000.svg?style=for-the-badge&logo=zephyr&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🧠 About Me
-- 🎓 Electrical Engineering student (Embedded Systems & AII)
-- ⚙️ Passionate about low-level programming & Linux
-- 🔧 Working with STM32, ESP32, and Embedded Linux
-- 🚀 Building real-world embedded & IoT projects
 
 ---
 
