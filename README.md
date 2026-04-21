@@ -1,7 +1,7 @@
 ##  Embedded Systems Engineer | Embedded Linux
 
 ### 🧠 About Me
-I focus on Embedded Linux development using Yocto, working with bootloaders, OTA update mechanisms, and low-level device drivers to build reliable and scalable systems; alongside this, I design and develop RTOS-based solutions for high-performance hardware using Zephyr and FreeRTOS, aiming to create efficient, real-time, and production-ready embedded applications.
+Focused on Embedded Linux, Yocto, bootloaders, OTA updates, and device drivers. Also interested in building RTOS systems for powerful hardware using Zephyr and FreeRTOS.
 
 --
 
