@@ -1,4 +1,4 @@
-## 🚀 Embedded Systems Engineer
+##  Embedded Systems Engineer
 
 ### 🧠 About Me
 - 🎓 Electrical Engineering student (Embedded Systems & AII)
