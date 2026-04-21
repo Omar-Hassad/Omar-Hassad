@@ -24,7 +24,3 @@
 - Device Drivers & Kernel Space
 - Real-time systems (RTOS / Zephyr)
 
----
-
-### 📫 Contact
-- 📧 omarhassad48@gmail.com
